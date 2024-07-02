@@ -1,6 +1,6 @@
 # Hi there, I'm Robert Parsimei 👋
 
-## Senior Softrware
+## Senior Software Engineer
 
 With over six years of experience in software development, I leverage my skills in Node, React, and various technologies to craft web applications and services tailored to meet the unique needs of clients and users.
 My proficiency extends to projects involving JavaScript, Python, AWS, and GCP, employing serverless architecture and deployment techniques.
